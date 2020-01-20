@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aec2a3f5-fe30-4991-9ecd-b115bf332ac8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WWvqsfTAddx3NK5rGAPklwMmKz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tugas-antena" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="Mobil" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="mobil-app" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aec2a3f5-fe30-4991-9ecd-b115bf332ac8" name="Default Changelist" comment="" />
+      <created>1579278362004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579278362004</updated>
+      <workItem from="1579278376848" duration="5362000" />
+      <workItem from="1579284202819" duration="30832000" />
+      <workItem from="1579333329536" duration="3527000" />
+      <workItem from="1579340900182" duration="34000" />
+      <workItem from="1579486653573" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="59" width="896" height="673" key="#Project_Structure" timestamp="1579278399081">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="59" width="896" height="673" key="#Project_Structure/0.27.1366.741@0.27.1366.741" timestamp="1579278399081" />
+    <state x="416" y="175" width="524" height="441" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579322833369">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="175" width="524" height="441" key="#com.intellij.ide.util.PackageChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1579322833369" />
+    <state x="417" y="30" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1579322836674">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="417" y="30" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1579322836674" />
+    <state x="466" y="155" width="424" height="480" key="FileChooserDialogImpl" timestamp="1579486676275">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="480" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1579486676275" />
+    <state width="1318" height="332" key="GridCell.Tab.0.bottom" timestamp="1579332629739">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1318" height="332" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579332629739" />
+    <state width="1318" height="332" key="GridCell.Tab.0.center" timestamp="1579332629738">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1318" height="332" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579332629738" />
+    <state width="1318" height="332" key="GridCell.Tab.0.left" timestamp="1579332629738">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1318" height="332" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579332629738" />
+    <state width="1318" height="332" key="GridCell.Tab.0.right" timestamp="1579332629738">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1318" height="332" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579332629738" />
+    <state width="1318" height="332" key="GridCell.Tab.1.bottom" timestamp="1579332629740">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1318" height="332" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579332629740" />
+    <state width="1318" height="332" key="GridCell.Tab.1.center" timestamp="1579332629739">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1318" height="332" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1579332629739" />
+    <state width="1318" height="332" key="GridCell.Tab.1.left" timestamp="1579332629739">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1318" height="332" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1579332629739" />
+    <state width="1318" height="332" key="GridCell.Tab.1.right" timestamp="1579332629739">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1318" height="332" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1579332629739" />
+    <state x="433" y="177" width="489" height="437" key="chooseDestDirectoryDialog" timestamp="1579322736876">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="433" y="177" width="489" height="437" key="chooseDestDirectoryDialog/0.27.1366.741@0.27.1366.741" timestamp="1579322736876" />
+    <state x="325" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1579278384979">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="325" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1579278384979" />
+    <state x="0" y="123" width="1356" height="544" key="new project wizard" timestamp="1579340945385">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="123" width="1356" height="544" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1579340945385" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1579311635614">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1579311635614" />
+  </component>
+</project>
