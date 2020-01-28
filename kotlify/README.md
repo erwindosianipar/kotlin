@@ -2,10 +2,10 @@
 
 ## Application Screenshot
 
-![Home](/home.png)
-![Song](/song.png)
-![Genre](/genre.png)
-![Artist](/artist.png)
+![Home](home.png)
+![Song](song.png)
+![Genre](genre.png)
+![Artist](artist.png)
 
 ## Kotlify API (Golang)
 
